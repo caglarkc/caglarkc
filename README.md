@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I am Ali Çağlar Koçer! 👋
 
-<!--
-**caglarkc/caglarkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 I am a Mobile Application Developer
 
-Here are some ideas to get you started:
+📱 Passionate about crafting engaging mobile experiences and exploring new tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Also interested in AI, Machine Learning, and Data Science.
+
+✍🏾 Always seeking to expand my knowledge in various fields to improve my skillset.
+
+📫 Reach me at alicaglarkocer@gmail.com
+
+## GitHub Stats 📊
+
+![Ali Çağlar Koçer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caglarkc&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglarkc&layout=compact&theme=radical)](https://github.com/caglarkc)
