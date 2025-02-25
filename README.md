@@ -1,16 +1,16 @@
-Hi, I am Ali Çağlar Koçer! 👋
-👨🏽‍💻 I am a Backend Developer.
+## Hi, I am Ali Çağlar Koçer! 👋  
+👨🏽‍💻 I am a **Backend Developer**.  
 
-📱 Passionate about crafting engaging mobile experiences and exploring new tech.
+📱 Passionate about crafting engaging mobile experiences and exploring new tech.  
 
-💡 I have experience in multiple domains and technologies:
+💡 I have experience in multiple domains and technologies:  
 
-🚀 Skills by Domain:
-🛠️ Backend Development:
-💻 Languages:
+---
 
-Node.js 🟢
-JavaScript 🟨
+### 🚀 **Skills by Domain:**  
+
+---
+
 #### 🛠️ **Backend Development:**  
 - **💻 Languages:**  
   - Node.js 🟢  
@@ -78,8 +78,8 @@ JavaScript 🟨
 
 ---
 
-Bu haliyle hem kategoriler net bir şekilde ayrıldı hem de her teknoloji ve dil için uygun emojiler eklendi. Eğer başka bir detay eklemek veya düzenleme yapmak istersen, lütfen belirt! 😊
+## GitHub Stats 📊  
 
-![Ali Çağlar Koçer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caglarkc&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Ali Çağlar Koçer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caglarkc&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglarkc&layout=compact&theme=radical)](https://github.com/caglarkc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caglarkc&layout=compact&theme=radical)](https://github.com/caglarkc)  
