@@ -53,15 +53,6 @@
 
 ---
 
-#### 🎮 **Game Development:**  
-- **🕹️ Engine:**  
-  - Unity 🎲  
-
-- **💻 Languages:**  
-  - C# 💠  
-
----
-
 #### 🤖 **Artificial Intelligence & Data Science:**  
 - **💻 Languages:**  
   - Python 🐍  
