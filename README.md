@@ -20,7 +20,8 @@
   - Docker 🐳  
   - Microservices Architecture 🧱  
   - RESTful API Development 🌐  
-  - Jest (Testing) 🧪  
+  - Jest (Testing) 🧪
+  - RabbitMQ
 
 - **🗄️ Databases:**  
   - MongoDB 🍃  
