@@ -21,7 +21,7 @@
   - Microservices Architecture 🧱  
   - RESTful API Development 🌐  
   - Jest (Testing) 🧪
-  - RabbitMQ
+  - RabbitMQ 
 
 - **🗄️ Databases:**  
   - MongoDB 🍃  
