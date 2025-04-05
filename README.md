@@ -3,7 +3,7 @@
 
 📱 Passionate about crafting engaging mobile experiences and exploring new tech.  
 
-💡 I have experience in multiple domains and technologies :  
+💡 I have experience in multiple domains and technologies:  
 
 ---
 
