@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 **Skills by Domain:**  
+### 🚀 **Skills by Domain:** 
 
 ---
 
