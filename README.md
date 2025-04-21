@@ -12,7 +12,7 @@
 ---
 
 #### 🛠️ **Backend Development:**  
-- **💻 Languages:**  
+- **💻 Languages:**   
   - Node.js 🟢  
   - JavaScript 🟨  
 
