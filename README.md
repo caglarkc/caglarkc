@@ -1,76 +1,51 @@
-## Hi, I am Ali Çağlar Koçer! 👋  
-👨🏽‍💻 I am a **Backend Developer, but I am also interested and creating projects in other fields.**.  
-    
-📱 Passionate about crafting engaging mobile experiences and exploring new tech.   
+Hi, I am Ali Çağlar Koçer! 👋
+👨🏽‍💻 I am a Backend Developer, but I am also passionate about full-stack ecosystem and mobile development.
 
-💡 I have experience in multiple domains and technologies:   
+📱 Passionate about crafting high-performance systems, engaging mobile experiences, and exploring cloud-native technologies.
 
----
+💡 I have experience in multiple domains and technologies:
 
-### 🚀 **Skills by Domain:** 
+🚀 Skills by Domain: #### 🛠️ Backend Development: - 💻 Languages: - Go (Golang) 🔵
+Node.js & JavaScript 🟢🟨
 
----
+Python 🐍 | C# | C++ | Perl
 
-#### 🛠️ **Backend Development:**  
-- **💻 Languages:**   
-  - Node.js 🟢  
-  - JavaScript 🟨  
+⚙️ Technologies & Architecture: - Microservices & Serverless Architecture ☁️
 
-- **⚙️ Technologies:**  
-  - Docker 🐳  
-  - Microservices Architecture 🧱  
-  - RESTful API Development 🌐  
-  - Jest (Testing) 🧪
-  - RabbitMQ  
+RESTful API & gRPC/Protobuf ⚡
 
-- **🗄️ Databases:**  
-  - MongoDB 🍃  
-  - Redis 🚦  
-  - MySQL 🐬  
-  - Firebase 🔥  
+Docker & Kubernetes 🐳
 
----
+Terraform (IaC) 🏗️
 
-#### 🌐 **Web Development:**  
-- **🎨 Frontend:**  
-  - HTML 📄  
-  - CSS 🎨  
-  - JavaScript 🟨  
-  - React ⚛️  
+RabbitMQ 🚀 | Jest (Testing) 🧪 | JWT 🔑
 
-- **🧠 Backend:**  
-  - Node.js 🟢  
-  - Express.js 🚀  
+☁️ Cloud (AWS):
 
----
+Lambda, CloudWatch, DynamoDB 🍊
 
-#### 📱 **Mobile Development:**  
-- **💻 Languages:**  
-  - Java ☕  
-  - Kotlin 🤖  
+🗄️ Databases: - PostgreSQL 🐘 | MongoDB 🍃
 
-- **📲 Frameworks:**  
-  - Android Development 📱  
+Redis 🚦 | MySQL 🐬
 
----
+Firebase 🔥 | DynamoDB 📑
 
-#### 🤖 **Artificial Intelligence & Data Science:**  
-- **💻 Languages:**  
-  - Python 🐍  
+📱 Mobile Development: - 💻 Languages: - Java ☕ | Kotlin 🤖
+📲 Frameworks: - Flutter 💙 | React Native ⚛️
 
-- **🧠 Interests:**  
-  - Machine Learning 🧬  
-  - Data Science 📊  
+Android Development 📱
 
----
+🌐 Web Development (Frontend): - 🎨 Tools: - HTML5 📄 | CSS3 🎨 | JavaScript 🟨 | React ⚛️
+🛠️ DevOps & Tools: - 🔧 Productivity: - Git & GitHub 📂
+Postman & Swagger (API Doc) 📄
 
-✍🏾 Always seeking to expand my knowledge in various fields to improve my skillset.  
+Terraform & Kubernetes ☸️
 
-📫 Reach me at **alicaglarkocer@gmail.com**  
+✍🏾 Always seeking to expand my knowledge in various fields to improve my skillset.
 
----
+📫 Reach me at alicaglarkocer@gmail.com ---
 
-## GitHub Stats 📊  
+GitHub Stats 📊
 
 ![Ali Çağlar Koçer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caglarkc&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)  
 
