@@ -1,5 +1,5 @@
 ## Hi, I am Ali Çağlar Koçer! 👋  
-👨🏽‍💻 I am a **Backend Developer**, but I am also passionate about full-stack ecosystem and mobile development.
+👨🏽‍💻 I am a **Backend Developer**, but I am also passionate about full-stack ecosystem and the frontier of LLMs, specifically focused on building Agentic Workflows.
 
 📱 Passionate about crafting high-performance systems, engaging mobile experiences, and exploring cloud-native technologies.
 
