@@ -6,7 +6,7 @@
 💡 I have experience in multiple domains and technologies:
 
 ---
-
+ 
 ### 🚀 **Skills by Domain:**
 
 ---
